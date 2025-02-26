@@ -20,7 +20,7 @@ This is a simple REST API built with Express.js that allows users to manage task
 3. Start the server:
 
    ```sh
-   node server.js
+   node app.js
    ```
 
    The server will start on `http://localhost:3000`.
