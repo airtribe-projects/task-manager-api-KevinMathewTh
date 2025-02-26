@@ -1,4 +1,4 @@
-# Express Task API
+# Express Task Manager API
 
 This is a simple REST API built with Express.js that allows users to manage tasks. It provides endpoints to create, retrieve, update, and delete tasks.
 
